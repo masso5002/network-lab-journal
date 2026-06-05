@@ -1,9 +1,9 @@
 # **Tổng quan về mạng máy tính và truyền thông**
-## **1. Mạng máy tính là gì?**
+## **Mạng máy tính là gì?**
 
 **- Tập hợp các máy tính kết nối với nhau dựa trên một kiến trúc nào đó để có thể trao đổi dữ liệu.**
 
-## **1. Mô hình truyền thông**
+## **Mô hình truyền thông**
 
 ![Mô hình truyền thôngg](images/mohinhtruyenthong.png)
 
